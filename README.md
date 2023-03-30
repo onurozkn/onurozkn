@@ -2,13 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Onur, a full-time devops engineer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on https://github.com/Anka-Geo  
-  
-
-- 🌱 I’m currently learning AWS and Kubernetes  
+### <div align="center">I'm Onur,  DevOps engineer 👨‍💻 </div>  
   
 
 <br/>  
