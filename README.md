@@ -71,5 +71,8 @@
 </a>  
 </div>  
   
+  ## 📊 Statistics
+<p align="left">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurozkn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
