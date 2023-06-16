@@ -1,8 +1,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Onur,  DevOps engineer 👨‍💻 </div>  
+ 
+ <p align="center">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi%2C%20welcome%20to%20my%20GitHub%20page;My%20name%20is%20Onur;I%20am%20Devops%20Engineer;&font=Anton&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>  
+</p>
   
 
 <br/>  
